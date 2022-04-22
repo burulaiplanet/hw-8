@@ -1,0 +1,12 @@
+.Comment {
+	margin-right: 50px;
+	
+}
+.name-date {
+	margin-top: 20px;
+	width: 100px;
+	height: 120px;
+	border-color: azure;
+	text-align: center;
+	padding-top: 6px;
+}
